@@ -1,5 +1,4 @@
-#Javascript Calculator
-
+# Javascript Calculator
 #### Introductory Javascript practice
 
 #### By Jonathon Kang and Chitroopa M
